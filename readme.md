@@ -1,3 +1,3 @@
 # Yaren Odev
 
-- İlk ödev
+- İlk ödev - 1
